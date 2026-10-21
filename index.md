@@ -47,7 +47,7 @@ Dash dashboard.
 
 **Visualization — average sales by vehicle type (recession vs non-recession):**
 
-![Sales by Vehicle Type](https://raw.githubusercontent.com/<your-username>/data-science-project/main/visualizations/sales_by_vehicle_type.png)
+![Sales by Vehicle Type](https://raw.githubusercontent.com/wangmengchen61-cmyk/data-science-project/main/visualizations/sales_by_vehicle_type.png)
 
 The chart shows that every vehicle segment sells fewer cars during recession
 years. Small Family Cars remain the largest segment in both regimes, which is
@@ -55,6 +55,6 @@ consistent with their role as a necessity purchase, whereas Sports and
 Executive Cars — more discretionary purchases — show the largest relative
 declines.
 
-**Project repository:** [github.com/<your-username>/data-science-project](https://github.com/<your-username>/data-science-project)
+**Project repository:** [github.com/wangmengchen61-cmyk/data-science-project](https://github.com/wangmengchen61-cmyk/data-science-project)
 
 **Project status:** Completed (Oct 2026)
