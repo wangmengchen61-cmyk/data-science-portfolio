@@ -5,7 +5,7 @@ description: Portfolio of Mengchen Wang — data science projects, technical ski
 
 # Mengchen Wang
 
-**Data Science Graduate Student | University of Macau**
+**Data Science Graduate Student, University of Macau**
 
 Hello! I am a first-year graduate student in Data Science (Marketing Analytics)
 at the University of Macau. I enjoy turning messy datasets into clear,
